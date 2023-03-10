@@ -1,0 +1,9 @@
+.menu{
+    background-color: peru;
+    display: flex;
+    padding: 20px;
+}
+.nav{
+    /* text-align: right; 
+    margin-left: auto;*/
+}
